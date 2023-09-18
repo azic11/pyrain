@@ -6,7 +6,7 @@ setup(
     description='A python module to draw raincloud plots',
     author='Anton Zickler',
     author_email='anton.zickler@gmail.com',
-    pymodules=['pyraincloud'],
+    py_modules=['pyraincloud'],
     install_requires=[
         'numpy',
         'matplotlib',
