@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pyraincloud',
+    name='pyrain',
     version='0.0.1',
     description='A python module to draw raincloud plots',
     author='Anton Zickler',
